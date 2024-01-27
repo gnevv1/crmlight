@@ -1,0 +1,64 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Asap:wght@300&family=Montserrat:wght@300&family=Open+Sans&family=Roboto:wght@300&display=swap');
+
+.wrapper {
+    height:100vh;
+    width: 80%;
+    margin-left: 120px; 
+    border-radius:  8px;
+    font-family: 'Asap', sans-serif;
+    
+
+}  
+
+.tbody {
+    border-radius:  8px
+}
+
+
+
+.table{
+    
+    width: 100%;
+	margin-bottom: 0px;
+    margin-top: 5px;
+	border: 0,1px solid #ffffff;
+	border-collapse: collapse;
+    
+}
+.table th {
+	font-weight: bold;  
+	padding: 10px;
+	background: #ffffff;
+	border: 0,1px solid #383838;
+    border-bottom: 2px solid black;
+    color: #0d6efd
+    
+}
+.table td {
+	border: 1px solid #aaa7a7;
+	padding: 5px;
+    background-color: rgb(212, 233, 245);
+    
+}
+
+/* .main-cont {
+     display: grid; 
+    /* display: inline-flex;  */
+    /* gap: 20px;
+    grid-template-rows: auto;
+    grid-template-columns: repeat(5, 2fr);
+    
+    
+
+}
+ */ 
+
+/* .table {
+    border: 2px solid black;
+} */
+
+
+  
+
+

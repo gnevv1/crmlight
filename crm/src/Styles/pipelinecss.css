@@ -1,0 +1,43 @@
+.widgetmain {
+    background-color: rgb(83, 129, 255);
+    border-radius: 12px;
+    margin: 5px 5px 5px 5px;;
+  
+}
+
+.pipelineless {
+    background-color: rgb(83, 129, 255);
+    border-radius: 12px;
+    padding-top: 5px;
+}
+.btn-outline-primary {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.pipetxt {
+    display: block;
+    margin: 0px 5px 5px 5px;
+    border-radius: 4px;
+    width: 181px;
+    text-align: center;
+    justify-content: center;
+}
+
+/* .badge {
+    margin:5px 5px 5px 5px;
+} */
+.pipeinput {
+    margin: 5px 5px 5px 5px;
+    display: block;
+    border-radius: 4px;
+}
+
+h3 {
+    text-align: center;
+    color: aliceblue;
+}
+p {
+    text-align: center;
+    color: aliceblue;
+}

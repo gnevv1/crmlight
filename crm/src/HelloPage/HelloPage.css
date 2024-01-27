@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans&family=Roboto:wght@300&display=swap');
+
+.btn-close {
+    opacity: 0.3;
+    margin-top: 1px;
+    margin-right: 10px;
+    justify-content: space-between;
+    text-align: end
+    
+};
+
+
+
+.HelloPage {
+ padding: auto;
+    
+}
+
+
+#btn{
+    margin-top: 7px;
+}
+
+.bluespan {
+    color: rgb(255, 1, 1);
+    
+}
+
+
+
+.menu-mini {
+    grid-area: menu
+}
+
+.card {
+    
+    margin-top: 2%;
+    width: 500px;
+    height: 90%;
+    margin-left: 30%;
+   
+    text-align: end;
+}
+
+.form {
+    display: block;
+    text-align: center;
+}
+
+.form-text {
+    display: block;
+    text-align: center;
+}
+
+.form-control {
+    margin: 0% 0% 0% 10%;
+    width: 80%;
+    
+  
+}
+
+.btn-close {
+    width: 20px;
+    height: 20px;
+}
+
+
+
+
+.logo {
+
+
+    width: 100px;
+    font-size: medium;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+}
+
+
+.Menu_icon5 {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.crm_title1 {
+    width: 100%;
+    font-size: larger;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    margin-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.warining{
+    color:red;
+}
+
+.card shadow {
+    margin-left: 0px;
+    margin-top: 10px;
+}

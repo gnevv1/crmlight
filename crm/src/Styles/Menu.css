@@ -1,0 +1,193 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    text-decoration: none
+    
+}
+
+
+li {
+    list-style-type: none;
+}
+
+.container {
+    background-color: #ffffff;
+    border: 0px solid black;
+    padding: 0px;
+}
+
+.item_link {
+    display: block;
+    align-items: center;
+    width: 160px;
+    height: 48px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.col {
+    padding: 0px;
+}
+
+
+
+
+.Menu_liste {
+  
+
+}
+
+.logo {
+    display: block;
+    
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.profile-container {
+    position: relative;
+    grid-area: footer;
+    display: inline-block;
+    background: url(account.png);
+    
+    background-size: 48px 48px;
+    
+}
+
+.container.col {
+    margin-left: 12px;
+}
+
+.profile-container:hover{
+opacity: 0.7;
+}
+
+
+.account {
+  
+    cursor: pointer;
+    margin: auto;
+    bottom: 0;
+    height: 48px;
+    width: 48px;
+}
+
+
+
+
+.Menu_iconBAG {
+    display: inline-block;
+    background: url(money-bag.gif);
+    background-size: 48px 48px;
+    height: 48px;
+    margin-right: 3px;
+}
+
+
+
+.Menu_iconBAR {
+
+    display: inline-block;
+    background: url(bar-chart.gif);
+    background-size: 48px 48px;
+    height: 48px;
+    width: 48px;
+    margin-right: 6px;
+}
+
+.Menu_iconONL {
+    display: inline-block;
+    background: url(online-support.gif);
+    background-size: 48px 48px;
+    height: 48px;
+    width: 48px;
+}
+
+.Menu_iconAGR {
+
+    display: inline-block;
+    background: url(agreement.gif);
+    background-size: 48px 48px;
+    margin-right: 3px;
+    height: 48px;
+    width: 48px;
+
+}
+
+span:hover{
+    opacity: 0.7;}
+
+div.container-fluid1:hover img {
+
+    visibility: hidden;
+    border: auto;
+
+} 
+
+
+
+.Menu_icon5 {
+    display: block;
+    background: url(thunder.gif);
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+div.logo_pack:hover img {
+    visibility: hidden;
+    border: auto;
+}
+
+.Menu_icon5 {
+    margin-right: auto;
+    text-align: center;
+}
+
+.crm_title {
+    width: 100px;
+    font-size: medium;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+
+}
+
+ul {
+    padding-left: 5px;
+}
+
+#root {
+    height: 90%;
+}
+
+.col-2 {
+    width:12.5%;
+}
+
+
+
+
+.navbar-brande {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 4px;
+    font-size: 1.25rem;
+    text-decoration: none;
+   
+}
+
+.container col-2 {
+    height: 90%;
+}
+.row {
+    height: 886px;
+}
+.container-fluid {
+    height: 90%;
+}

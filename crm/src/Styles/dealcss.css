@@ -1,0 +1,41 @@
+.widname {
+    color: aqua;
+    display: block;
+    grid-area: main;
+    margin-left: 40px;
+    width: 400px;
+    height: 900px;
+    
+}
+
+.widget {
+    width: 100px;
+    height: 50px;
+    background-color: #ccc;
+    margin-bottom: 10px;
+    cursor: move;
+  }
+  
+  #drop-area {
+    width: 300px;
+    height: 200px;
+    background-color: #eee;
+    border: 2px dashed #aaa;
+  }
+  
+  .log {
+    background-color:lightblue;
+    margin:20px 25%; 
+   
+    font-size:20px;
+    height: 40px;
+    width: 100px;
+    display: grid;
+    grid-template-rows: auto ;
+    grid-template-columns:100px auto;
+  
+  }
+
+  .dealmain {
+    
+  }
